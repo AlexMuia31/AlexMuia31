@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Python,Django,JavaScript,Html
+Python,Django,JavaScript,Html,css
 Just Creating
    Learning
    
