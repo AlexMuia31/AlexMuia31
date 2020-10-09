@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 
-Python,Django,JavaScript,Html,css
-Just Creating
+Python
+   Django
+      JavaScript
+         Htm
+            css
+Just Creating and
    Learning
    
      No fancy quote here...
