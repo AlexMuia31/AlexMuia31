@@ -1,15 +1,16 @@
 ### Hi there 👋
 
 
-Python
-   Django
-      JavaScript
-         Htm
-            css
-Just Creating and
-   Learning
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexMuia31)](https://github.com/anuraghazra/github-readme-stats)
 
+   Python,
+   Django,
+      JavaScript,
+         Html,
+            css,
+Just Creating and
+   Learning
+   
    
      No fancy quote here...
 
