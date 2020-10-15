@@ -8,6 +8,8 @@ Python
             css
 Just Creating and
    Learning
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexMuia31)](https://github.com/anuraghazra/github-readme-stats)
+
    
      No fancy quote here...
 
