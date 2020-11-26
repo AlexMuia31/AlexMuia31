@@ -1,9 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=AlexMuia31" alt="AlexMuia31"/> </p>  </p>
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexMuia31/AlexMuia31/master/img/profile.gif"/>
+</p>
 
 
 <a href="https://github.com/AlexMuia31/AlexMuia31">
