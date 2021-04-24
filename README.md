@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexMuia31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alex's GitHub Stats" />
 </a>
 
-     Python,Django,Angular,TypeScript,Ionic, JavaScript,Html,css,Just Creating and Learning
+     Python,Django,TypeScript,JavaScript,Html,css,Just Creating and Learning
    
    
      No fancy quote here...
