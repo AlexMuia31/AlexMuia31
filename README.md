@@ -5,7 +5,7 @@
 
 
 
-     Solidity,TypeScript,JavaScript, React, Bootstrap, MUI, Html, css,Just Creating and Learning
+     Solidity,TypeScript,JavaScript, React, ThreeJs, TailwindCss, Bootstrap, MUI, Html, css,Just Creating and Learning
    
    
      No fancy quote here...
